@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ArrayandString.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ArrayandString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ArrayandString.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ArrayandString.AssemblyInfo.cs
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ArrayandString.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\bin\Debug\net5.0\ArrayandString.exe
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\bin\Debug\net5.0\ArrayandString.deps.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\bin\Debug\net5.0\ArrayandString.runtimeconfig.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\bin\Debug\net5.0\ArrayandString.runtimeconfig.dev.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\bin\Debug\net5.0\ArrayandString.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\bin\Debug\net5.0\ref\ArrayandString.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\bin\Debug\net5.0\ArrayandString.pdb
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ArrayandString.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ref\ArrayandString.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ArrayandString.pdb
+C:\Users\HP\Desktop\HDD\CodeAcademy\Tasks1\ArrayandString\ArrayandString\obj\Debug\net5.0\ArrayandString.genruntimeconfig.cache
